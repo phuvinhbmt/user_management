@@ -1,0 +1,390 @@
+﻿997855011-9,Riot in Cell Block 11,Diane Sturge;Rutter Hedworth,7,Prayer,Available,1
+997372511-5,New York Stories,Towney Bovey;Adel Treamayne,6,Diary,Borrowed,1
+997372511-5,New York Stories,Towney Bovey;Adel Treamayne,6,Diary,Available,2
+997372511-5,New York Stories,Towney Bovey;Adel Treamayne,6,Diary,Available,3
+997001031-X,976-EVIL,Ignacio De Angelis;Sheri McGaughie,8,Science fiction,Available,1
+997001031-X,976-EVIL,Ignacio De Angelis;Sheri McGaughie,8,Science fiction,Available,2
+996774175-9,Private Fears in Public Places (Coeurs),Fairfax Bullingham;Tania Phidgin,8,Poetry,Available,1
+996017989-3,Black Moon,Datha Loveday;Koral Ramsbotham,1,Cookbook,Available,1
+996017989-3,Black Moon,Datha Loveday;Koral Ramsbotham,1,Cookbook,Borrowed,2
+996017989-3,Black Moon,Datha Loveday;Koral Ramsbotham,1,Cookbook,Available,3
+993490959-6,Trancers II,Sharron Dudson;Reinhold Sommerfeld,1,Coming-of-age,Available,1
+991067233-2,"Eel The (Unagi)",Leonora Girk;Valentijn Le Grice,5,Science,Available,1
+991067233-2,"Eel The (Unagi)",Leonora Girk;Valentijn Le Grice,5,Science,Available,2
+991067233-2,"Eel The (Unagi)",Leonora Girk;Valentijn Le Grice,5,Science,Available,3
+991067233-2,"Eel The (Unagi)",Leonora Girk;Valentijn Le Grice,5,Science,Available,4
+988393512-9,Majesteit,Evangelin Bonwell;Elinor Hauch,4,Comic book,Available,1
+988393512-9,Majesteit,Evangelin Bonwell;Elinor Hauch,4,Comic book,Available,2
+988393512-9,Majesteit,Evangelin Bonwell;Elinor Hauch,4,Comic book,Available,3
+988393512-9,Majesteit,Evangelin Bonwell;Elinor Hauch,4,Comic book,Available,4
+984620653-4,"Magic Voyage of Sindbad The (Sadko)",Amalie Dearell;Roxie Le Lievre,9,Mystery,Available,1
+984620653-4,"Magic Voyage of Sindbad The (Sadko)",Amalie Dearell;Roxie Le Lievre,9,Mystery,Available,2
+984620653-4,"Magic Voyage of Sindbad The (Sadko)",Amalie Dearell;Roxie Le Lievre,9,Mystery,Available,3
+984620653-4,"Magic Voyage of Sindbad The (Sadko)",Amalie Dearell;Roxie Le Lievre,9,Mystery,Available,4
+980464888-1,Midnight,Nevile Runsey;Raviv Garratt,3,Anthology,Available,1
+980464888-1,Midnight,Nevile Runsey;Raviv Garratt,3,Anthology,Available,2
+980464888-1,Midnight,Nevile Runsey;Raviv Garratt,3,Anthology,Borrowed,3
+980464888-1,Midnight,Nevile Runsey;Raviv Garratt,3,Anthology,Available,4
+972011242-5,Sun on the Horizon,Alexandro Sokill;Gris De Ruggiero,5,Mystery,Available,1
+970274699-X,"Funny Man A (Dirch)",Glendon Milham;Raychel Oddie,1,Thriller,Available,1
+970274699-X,"Funny Man A (Dirch)",Glendon Milham;Raychel Oddie,1,Thriller,Available,2
+970274699-X,"Funny Man A (Dirch)",Glendon Milham;Raychel Oddie,1,Thriller,Available,3
+970274699-X,"Funny Man A (Dirch)",Glendon Milham;Raychel Oddie,1,Thriller,Borrowed,4
+966756596-3,"Road to Wellville The",Karilynn Hunstone;Jefferson Middler,8,Diary,Available,1
+963569840-2,Tampopo,Artemus Studeart;Oswell Ugolotti,8,Encyclopedia,Available,1
+956552853-8,Faster,Wylie Blaxley;Jobye MacCracken,8,Chick lit,Available,1
+956552853-8,Faster,Wylie Blaxley;Jobye MacCracken,8,Chick lit,Available,2
+956552853-8,Faster,Wylie Blaxley;Jobye MacCracken,8,Chick lit,Available,3
+956552853-8,Faster,Wylie Blaxley;Jobye MacCracken,8,Chick lit,Available,4
+955993010-9,"Middle of the World The (O Caminho das Nuvens)",Raddie Fivey;Lulita Olorenshaw,9,Anthology,Borrowed,1
+955993010-9,"Middle of the World The (O Caminho das Nuvens)",Raddie Fivey;Lulita Olorenshaw,9,Anthology,Available,2
+955993010-9,"Middle of the World The (O Caminho das Nuvens)",Raddie Fivey;Lulita Olorenshaw,9,Anthology,Available,3
+955993010-9,"Middle of the World The (O Caminho das Nuvens)",Raddie Fivey;Lulita Olorenshaw,9,Anthology,Available,4
+955159590-4,"Citizen The",Wyatt Palleske;Hagen Trew,6,Crime,Available,1
+955159590-4,"Citizen The",Wyatt Palleske;Hagen Trew,6,Crime,Available,2
+955159590-4,"Citizen The",Wyatt Palleske;Hagen Trew,6,Crime,Available,3
+943483705-7,"Young Black Stallion The",Geoffrey Gambrell;Elaina Greening,8,Young adult,Available,1
+937693726-0,Cass Timberlane,Wheeler Brocket;Catherin Rohloff,2,Science fiction,Available,1
+937693726-0,Cass Timberlane,Wheeler Brocket;Catherin Rohloff,2,Science fiction,Available,2
+937693726-0,Cass Timberlane,Wheeler Brocket;Catherin Rohloff,2,Science fiction,Available,3
+937693726-0,Cass Timberlane,Wheeler Brocket;Catherin Rohloff,2,Science fiction,Available,4
+936664682-4,The Hound of the Baskervilles,Erasmus Mobbs;Belle Gillimgham,2,True crime,Available,1
+936441197-8,Bob the Butler,Shane Hancke;Rich Tidy,9,Satire,Available,1
+936441197-8,Bob the Butler,Shane Hancke;Rich Tidy,9,Satire,Available,2
+936441197-8,Bob the Butler,Shane Hancke;Rich Tidy,9,Satire,Available,3
+918749287-3,Curse of the Pink Panther,Coral Braybrooke;Wilmar Bravington,6,Health,Available,1
+918749287-3,Curse of the Pink Panther,Coral Braybrooke;Wilmar Bravington,6,Health,Available,2
+918749287-3,Curse of the Pink Panther,Coral Braybrooke;Wilmar Bravington,6,Health,Available,3
+918749287-3,Curse of the Pink Panther,Coral Braybrooke;Wilmar Bravington,6,Health,Available,4
+914413194-1,Confessions of a Superhero,Sydney Wheble;Mel Ternault,10,Romance,Available,1
+914413194-1,Confessions of a Superhero,Sydney Wheble;Mel Ternault,10,Romance,Available,2
+914413194-1,Confessions of a Superhero,Sydney Wheble;Mel Ternault,10,Romance,Available,3
+914413194-1,Confessions of a Superhero,Sydney Wheble;Mel Ternault,10,Romance,Available,4
+912909892-0,Leontine,Ossie Yitshak;Lorne Isgar,1,Picture book,Available,1
+912909892-0,Leontine,Ossie Yitshak;Lorne Isgar,1,Picture book,Available,2
+912909892-0,Leontine,Ossie Yitshak;Lorne Isgar,1,Picture book,Available,3
+912909892-0,Leontine,Ossie Yitshak;Lorne Isgar,1,Picture book,Available,4
+912694140-6,Monty Python Live (Mostly),Whitman Keddey;Merridie Mendus,6,Alternate history,Available,1
+912694140-6,Monty Python Live (Mostly),Whitman Keddey;Merridie Mendus,6,Alternate history,Available,2
+912694140-6,Monty Python Live (Mostly),Whitman Keddey;Merridie Mendus,6,Alternate history,Available,3
+912694140-6,Monty Python Live (Mostly),Whitman Keddey;Merridie Mendus,6,Alternate history,Available,4
+911508558-9,Violet & Daisy,Rafa O'Lunney;Forrest Stirzaker,10,Comic book,Available,1
+911183279-7,Grace Is Gone,Kore Grenshiels;Ardene Bew,6,Health,Available,1
+911183279-7,Grace Is Gone,Kore Grenshiels;Ardene Bew,6,Health,Available,2
+911183279-7,Grace Is Gone,Kore Grenshiels;Ardene Bew,6,Health,Available,3
+911183279-7,Grace Is Gone,Kore Grenshiels;Ardene Bew,6,Health,Available,4
+909735948-1,The Vanishing American,Donnie Studders;Darya Jeandel,10,Health,Available,1
+906821851-4,Once Upon a Time in the West (C'era una volta il West),Malina Attenbrough;Abbott Hurry,6,Comic book,Available,1
+903143478-7,Fill the Void (Lemale et ha'halal),Tristam Marie;Iggy Luberto,8,Autobiography,Available,1
+903143478-7,Fill the Void (Lemale et ha'halal),Tristam Marie;Iggy Luberto,8,Autobiography,Available,2
+903143478-7,Fill the Void (Lemale et ha'halal),Tristam Marie;Iggy Luberto,8,Autobiography,Available,3
+903143478-7,Fill the Void (Lemale et ha'halal),Tristam Marie;Iggy Luberto,8,Autobiography,Available,4
+900341937-X,Advance to the Rear,Corri Reis;Sammy Grayling,7,Dictionary,Available,1
+900341937-X,Advance to the Rear,Corri Reis;Sammy Grayling,7,Dictionary,Available,2
+892003170-3,Arnulf Rainer,Putnem Sidgwick;Gui Etheridge,7,Prayer,Available,1
+892003170-3,Arnulf Rainer,Putnem Sidgwick;Gui Etheridge,7,Prayer,Available,2
+889064708-6,"Old Lady Who Walked in the Sea The (Vieille qui marchait dans la mer La)",Kerrie Afield;Grace Ateridge,10,Encyclopedia,Available,1
+884147879-9,Sky Captain and the World of Tomorrow,Boot Tregea;Dean Sollas,9,Historical fiction,Available,1
+879961577-0,Maskerade,Chandal Heninghem;Matthaeus Hinrich,1,Fantasy,Available,1
+879961577-0,Maskerade,Chandal Heninghem;Matthaeus Hinrich,1,Fantasy,Available,2
+879961577-0,Maskerade,Chandal Heninghem;Matthaeus Hinrich,1,Fantasy,Available,3
+879961577-0,Maskerade,Chandal Heninghem;Matthaeus Hinrich,1,Fantasy,Available,4
+878995657-5,Transformers: Revenge of the Fallen,Ivory Rohfsen;Anstice Greader,8,Alternate history,Available,1
+876355682-0,Together (Tillsammans),Bree Vanderplas;Otto Silveston,8,Horror,Available,1
+797395364-7,Advanced Style,Andrea Mallows;Garrot Heinsen,1,Children's literature,Available,1
+797395364-7,Advanced Style,Andrea Mallows;Garrot Heinsen,1,Children's literature,Available,2
+797130198-7,Blues in the Night,Reggie Banbury;Tallie Eastman,9,Anthology,Available,1
+797130198-7,Blues in the Night,Reggie Banbury;Tallie Eastman,9,Anthology,Available,2
+797130198-7,Blues in the Night,Reggie Banbury;Tallie Eastman,9,Anthology,Available,3
+796589449-1,Nomads,Bernadette Clissold;Antin Edgar,1,Travel,Available,1
+796589449-1,Nomads,Bernadette Clissold;Antin Edgar,1,Travel,Available,2
+796589449-1,Nomads,Bernadette Clissold;Antin Edgar,1,Travel,Available,3
+793964332-0,Kelly's Heroes,Phyllis Kave;Lia Utteridge,7,Political thriller,Available,1
+793964332-0,Kelly's Heroes,Phyllis Kave;Lia Utteridge,7,Political thriller,Available,2
+793964332-0,Kelly's Heroes,Phyllis Kave;Lia Utteridge,7,Political thriller,Available,3
+793964332-0,Kelly's Heroes,Phyllis Kave;Lia Utteridge,7,Political thriller,Available,4
+793279544-3,Across the Tracks,Brett Isakovitch;Chelsea Vink,4,Young adult,Available,1
+793279544-3,Across the Tracks,Brett Isakovitch;Chelsea Vink,4,Young adult,Available,2
+793084103-0,"Pink Ribbons Inc.",Chandra Shotboulte;Tandie Rase,9,Prayer,Available,1
+792816349-7,My Father and My Son (Babam ve oglum),Kirby Cowing;Constancy Battell,6,Crime,Available,1
+792816349-7,My Father and My Son (Babam ve oglum),Kirby Cowing;Constancy Battell,6,Crime,Available,2
+792816349-7,My Father and My Son (Babam ve oglum),Kirby Cowing;Constancy Battell,6,Crime,Available,3
+791262783-9,Beer Wars,Maura Bunt;Arliene Bartkowiak,6,Paranormal romance,Available,1
+791262783-9,Beer Wars,Maura Bunt;Arliene Bartkowiak,6,Paranormal romance,Available,2
+791262783-9,Beer Wars,Maura Bunt;Arliene Bartkowiak,6,Paranormal romance,Available,3
+790801299-X,"Reckoning The",Griffin Cox;Lorenzo Wathan,4,Memoir,Available,1
+789388599-8,Tales of the Grim Sleeper,Sabra McCamish;Tommy Labroue,6,Fairytale,Available,1
+778969771-4,Let Me In,Matt O'Teague;Gwenneth Soltan,9,Fantasy,Available,1
+778969771-4,Let Me In,Matt O'Teague;Gwenneth Soltan,9,Fantasy,Available,2
+778969771-4,Let Me In,Matt O'Teague;Gwenneth Soltan,9,Fantasy,Available,3
+778969771-4,Let Me In,Matt O'Teague;Gwenneth Soltan,9,Fantasy,Available,4
+601500979-9,Two Cents Worth of Hope (Due soldi di speranza),Clarence Serraillier;Cariotta Zottoli,2,Diary,Available,1
+594992376-6,Talking About Sex,Tymon Inger;Aleen De Bruyne,9,Short story,Available,1
+590553041-6,Yolanda and the Thief,Northrop Sephton;Marillin Petworth,1,Short story,Available,1
+588974536-0,"South of Heaven West of Hell",Irvine Ayshford;Mathias Sutherby,7,Cookbook,Available,1
+586842855-2,Sunset Park,Mellie MacPake;Lonny Jolliffe,2,Crime,Available,1
+585502953-0,Quatermass 2 (Enemy from Space),Lanny Moulsdale;Quentin Rhymer,5,Satire,Available,1
+256625457-5,"Rainmaker The",Berrie Khan;Felix Ambroix,8,Memoir,Available,1
+255141331-1,Cliffhanger,Hamid Brocket;Emily Calderonello,8,Horror,Available,1
+255141331-1,Cliffhanger,Hamid Brocket;Emily Calderonello,8,Horror,Available,2
+255141331-1,Cliffhanger,Hamid Brocket;Emily Calderonello,8,Horror,Available,3
+255141331-1,Cliffhanger,Hamid Brocket;Emily Calderonello,8,Horror,Available,4
+252094567-2,"Wipers Times The",Luce Tranter;Jean Hince,4,Graphic novel,Available,1
+250594589-6,Deadline - U.S.A.,Genvieve Tonsley;Farley Reolfi,10,Memoir,Available,1
+250594589-6,Deadline - U.S.A.,Genvieve Tonsley;Farley Reolfi,10,Memoir,Available,2
+250594589-6,Deadline - U.S.A.,Genvieve Tonsley;Farley Reolfi,10,Memoir,Available,3
+250594589-6,Deadline - U.S.A.,Genvieve Tonsley;Farley Reolfi,10,Memoir,Available,4
+250481353-8,Enduring Love,Dulce Quinell;Netti Dybell,6,Paranormal romance,Available,1
+250481353-8,Enduring Love,Dulce Quinell;Netti Dybell,6,Paranormal romance,Available,2
+250481353-8,Enduring Love,Dulce Quinell;Netti Dybell,6,Paranormal romance,Available,3
+250481353-8,Enduring Love,Dulce Quinell;Netti Dybell,6,Paranormal romance,Available,4
+249370000-7,Sex and Fury (Furyô anego den: Inoshika Ochô),Manolo Tadlow;Cherise Bamlet,3,Textbook,Available,1
+248414142-4,Dinner Rush,Nat Huddy;Ezekiel Le Page,2,Encyclopedia,Available,1
+248414142-4,Dinner Rush,Nat Huddy;Ezekiel Le Page,2,Encyclopedia,Available,2
+248414142-4,Dinner Rush,Nat Huddy;Ezekiel Le Page,2,Encyclopedia,Available,3
+248414142-4,Dinner Rush,Nat Huddy;Ezekiel Le Page,2,Encyclopedia,Available,4
+248237196-1,"Whole Nine Yards The",Willard Urwen;Ara Baum,1,Drama,Available,1
+247825550-2,Fatty and Mabel Adrift,Marleen Hendrik;Jasen Le Marchand,10,Chick lit,Available,1
+247825550-2,Fatty and Mabel Adrift,Marleen Hendrik;Jasen Le Marchand,10,Chick lit,Available,2
+247825550-2,Fatty and Mabel Adrift,Marleen Hendrik;Jasen Le Marchand,10,Chick lit,Available,3
+247825550-2,Fatty and Mabel Adrift,Marleen Hendrik;Jasen Le Marchand,10,Chick lit,Available,4
+246681837-X,My Boy Jack,Bernice Petz;Duffie Tatham,4,Horror,Available,1
+246681837-X,My Boy Jack,Bernice Petz;Duffie Tatham,4,Horror,Available,2
+246681837-X,My Boy Jack,Bernice Petz;Duffie Tatham,4,Horror,Available,3
+243627173-9,"Cottage The",Trefor Strothers;Brandise Mallinar,9,Historical fiction,Available,1
+243627173-9,"Cottage The",Trefor Strothers;Brandise Mallinar,9,Historical fiction,Available,2
+243627173-9,"Cottage The",Trefor Strothers;Brandise Mallinar,9,Historical fiction,Available,3
+243627173-9,"Cottage The",Trefor Strothers;Brandise Mallinar,9,Historical fiction,Available,4
+240230126-0,Amistad,Ashil Yakhin;Anabal Yashnov,2,Comic book,Available,1
+240230126-0,Amistad,Ashil Yakhin;Anabal Yashnov,2,Comic book,Available,2
+240220036-7,Breakaway (Speedy Singhs),Sasha Vasnetsov;Sadie Scotcher,10,Chick lit,Available,1
+240220036-7,Breakaway (Speedy Singhs),Sasha Vasnetsov;Sadie Scotcher,10,Chick lit,Available,2
+240220036-7,Breakaway (Speedy Singhs),Sasha Vasnetsov;Sadie Scotcher,10,Chick lit,Available,3
+240220036-7,Breakaway (Speedy Singhs),Sasha Vasnetsov;Sadie Scotcher,10,Chick lit,Available,4
+239270016-8,Scarecrow,Kaye Chillcot;Gregg Briddock,1,Political thriller,Available,1
+234380700-0,Blow-Up (Blowup),Genevra Pirson;Nettie Biddleston,9,Satire,Available,1
+234380700-0,Blow-Up (Blowup),Genevra Pirson;Nettie Biddleston,9,Satire,Available,2
+234380700-0,Blow-Up (Blowup),Genevra Pirson;Nettie Biddleston,9,Satire,Available,3
+233422724-2,I Spit on Your Grave,Mariann Raddenbury;Gina MacUchadair,4,Fairytale,Available,1
+233422724-2,I Spit on Your Grave,Mariann Raddenbury;Gina MacUchadair,4,Fairytale,Available,2
+233422724-2,I Spit on Your Grave,Mariann Raddenbury;Gina MacUchadair,4,Fairytale,Available,3
+233422724-2,I Spit on Your Grave,Mariann Raddenbury;Gina MacUchadair,4,Fairytale,Available,4
+231520469-0,"Wind That Shakes the Barley The",Tabb Cabedo;Avram Karpe,8,Chick lit,Available,1
+231086720-9,Star Wars: Episode II - Attack of the Clones,Zollie Davydkov;Nickolas Binks,7,Cookbook,Available,1
+229220197-6,Musicwood,Orv Cosgrive;Adlai Choupin,2,Science fiction,Available,1
+229220197-6,Musicwood,Orv Cosgrive;Adlai Choupin,2,Science fiction,Available,2
+229220197-6,Musicwood,Orv Cosgrive;Adlai Choupin,2,Science fiction,Available,3
+225741038-6,Ashes and Diamonds (Popiól i diament),King Gittins;Manfred Sains,2,Romance,Available,1
+225741038-6,Ashes and Diamonds (Popiól i diament),King Gittins;Manfred Sains,2,Romance,Available,2
+225741038-6,Ashes and Diamonds (Popiól i diament),King Gittins;Manfred Sains,2,Romance,Available,3
+224406546-4,Phineas and Ferb the Movie: Across the 2nd Dimension,Keir Bastock;Sancho Mackstead,3,Short story,Available,1
+220366861-X,The Apocalypse,Gerhardt Haburne;Stillman Larimer,5,Coming-of-age,Available,1
+220335365-1,Poltergeist III,Myer Flea;Rubin Petch,10,Fairytale,Available,1
+220333424-X,Touchback,Falito Alaway;Mona Bimson,8,Self help,Available,1
+220290823-4,Peter & the Wolf,Conny Kirman;Cornie Gostall,5,Biography,Available,1
+219176684-6,"Burn Witch Burn (Night of the Eagle)",Cristi Pringle;Mose Bett,6,Horror,Available,1
+219176684-6,"Burn Witch Burn (Night of the Eagle)",Cristi Pringle;Mose Bett,6,Horror,Available,2
+219176684-6,"Burn Witch Burn (Night of the Eagle)",Cristi Pringle;Mose Bett,6,Horror,Available,3
+219176684-6,"Burn Witch Burn (Night of the Eagle)",Cristi Pringle;Mose Bett,6,Horror,Available,4
+218585814-9,Wallace & Gromit: A Close Shave,Theodosia Rohlf;Dianne Gonet,1,History,Available,1
+218004445-3,Irreconcilable Differences,Tammie Massow;Sabina Scadden,2,Fairytale,Available,1
+218004445-3,Irreconcilable Differences,Tammie Massow;Sabina Scadden,2,Fairytale,Available,2
+218004445-3,Irreconcilable Differences,Tammie Massow;Sabina Scadden,2,Fairytale,Available,3
+218004445-3,Irreconcilable Differences,Tammie Massow;Sabina Scadden,2,Fairytale,Available,4
+216897950-2,Against the Dark,Frasier Copperwaite;Felicio Remirez,2,Poetry,Available,1
+216897950-2,Against the Dark,Frasier Copperwaite;Felicio Remirez,2,Poetry,Available,2
+214693990-7,Runaway,Kettie Thackray;Kim Uzelli,9,Drama,Available,1
+214146567-2,Borgman,Lu Goney;Codee Grimmolby,3,Mystery,Available,1
+214146567-2,Borgman,Lu Goney;Codee Grimmolby,3,Mystery,Available,2
+214146567-2,Borgman,Lu Goney;Codee Grimmolby,3,Mystery,Available,3
+209998101-9,2019: After the Fall of New York,Ashley Flag;Dalton Sudworth,7,Travel,Available,1
+209998101-9,2019: After the Fall of New York,Ashley Flag;Dalton Sudworth,7,Travel,Available,2
+209523178-3,Niko & the Way to the Stars (a.k.a. The Flight Before Christmas) (Niko - Lentäjän poika),Derek Gennrich;Hube Baird,9,Fantasy,Available,1
+209523178-3,Niko & the Way to the Stars (a.k.a. The Flight Before Christmas) (Niko - Lentäjän poika),Derek Gennrich;Hube Baird,9,Fantasy,Available,2
+209523178-3,Niko & the Way to the Stars (a.k.a. The Flight Before Christmas) (Niko - Lentäjän poika),Derek Gennrich;Hube Baird,9,Fantasy,Available,3
+206150206-7,Joy of Sex,Jermaine Mote;Orv Kayes,4,True crime,Available,1
+206150206-7,Joy of Sex,Jermaine Mote;Orv Kayes,4,True crime,Available,2
+206150206-7,Joy of Sex,Jermaine Mote;Orv Kayes,4,True crime,Available,3
+206150206-7,Joy of Sex,Jermaine Mote;Orv Kayes,4,True crime,Available,4
+201544085-2,"Unspeakable Act The",Merissa Antognazzi;Chet Ridolfo,1,Prayer,Available,1
+200039819-7,"Legend of Hercules The",Nana Ropert;Zerk Knutton,6,Journal,Available,1
+200039819-7,"Legend of Hercules The",Nana Ropert;Zerk Knutton,6,Journal,Available,2
+200039819-7,"Legend of Hercules The",Nana Ropert;Zerk Knutton,6,Journal,Available,3
+200039819-7,"Legend of Hercules The",Nana Ropert;Zerk Knutton,6,Journal,Available,4
+197194797-0,Deceptive Practice: The Mysteries and Mentors of Ricky Jay,Dorey Gunnell;Wood Longmead,8,Review,Available,1
+197194797-0,Deceptive Practice: The Mysteries and Mentors of Ricky Jay,Dorey Gunnell;Wood Longmead,8,Review,Available,2
+197194797-0,Deceptive Practice: The Mysteries and Mentors of Ricky Jay,Dorey Gunnell;Wood Longmead,8,Review,Available,3
+197194797-0,Deceptive Practice: The Mysteries and Mentors of Ricky Jay,Dorey Gunnell;Wood Longmead,8,Review,Available,4
+196517991-6,See You in the Morning,Maria Norkett;Germaine Breakspear,10,Alternate history,Available,1
+195632392-9,Seraphim Falls,Demetris Knipe;Orville Doogue,1,Biography,Available,1
+191019215-5,Unmade Beds,Borden Stimson;Valaria Balchen,7,Political thriller,Available,1
+190907121-8,Skin,Vincents Cleeves;Chev Breukelman,7,Fantasy,Available,1
+190813673-1,Grass,Sula Meriott;Shanta Houchin,5,Travel,Available,1
+190813673-1,Grass,Sula Meriott;Shanta Houchin,5,Travel,Available,2
+190813673-1,Grass,Sula Meriott;Shanta Houchin,5,Travel,Available,3
+190813673-1,Grass,Sula Meriott;Shanta Houchin,5,Travel,Available,4
+190591506-3,Frankenweenie,Kalina Ville;Eli Donat,10,Graphic novel,Available,1
+190591506-3,Frankenweenie,Kalina Ville;Eli Donat,10,Graphic novel,Available,2
+190591506-3,Frankenweenie,Kalina Ville;Eli Donat,10,Graphic novel,Available,3
+190591506-3,Frankenweenie,Kalina Ville;Eli Donat,10,Graphic novel,Available,4
+189608778-7,Belle toujours,Ruben Milmore;Diann Hilbourne,4,Autobiography,Available,1
+189608778-7,Belle toujours,Ruben Milmore;Diann Hilbourne,4,Autobiography,Available,2
+189608778-7,Belle toujours,Ruben Milmore;Diann Hilbourne,4,Autobiography,Available,3
+185244082-1,Small Wonders,Fernanda Hustler;Iain Blemings,1,Textbook,Available,1
+185199130-1,"Gazebo The",Heywood Earl;Magdalena Eirwin,5,Science,Available,1
+185199130-1,"Gazebo The",Heywood Earl;Magdalena Eirwin,5,Science,Available,2
+185199130-1,"Gazebo The",Heywood Earl;Magdalena Eirwin,5,Science,Available,3
+185199130-1,"Gazebo The",Heywood Earl;Magdalena Eirwin,5,Science,Available,4
+184637785-4,3 Bad Men,Kev Piscot;Trenton McGavigan,2,Diary,Available,1
+184637785-4,3 Bad Men,Kev Piscot;Trenton McGavigan,2,Diary,Available,2
+183480218-0,High School High,Roderich Timmis;Tommy Schaben,10,Review,Available,1
+183480218-0,High School High,Roderich Timmis;Tommy Schaben,10,Review,Available,2
+183480218-0,High School High,Roderich Timmis;Tommy Schaben,10,Review,Available,3
+183480218-0,High School High,Roderich Timmis;Tommy Schaben,10,Review,Available,4
+179085707-4,"Hunted The",Carole Coupar;Byrle Joder,3,Historical fiction,Available,1
+179085707-4,"Hunted The",Carole Coupar;Byrle Joder,3,Historical fiction,Available,2
+179085707-4,"Hunted The",Carole Coupar;Byrle Joder,3,Historical fiction,Available,3
+179085707-4,"Hunted The",Carole Coupar;Byrle Joder,3,Historical fiction,Available,4
+178997625-1,Planes,Cirillo MacGiolla Pheadair;Jourdain Naughton,3,Guide,Available,1
+175445188-8,Making Contact (a.k.a. Joey),Moise Crosston;Markos Janecki,9,Math,Available,1
+175445188-8,Making Contact (a.k.a. Joey),Moise Crosston;Markos Janecki,9,Math,Available,2
+175445188-8,Making Contact (a.k.a. Joey),Moise Crosston;Markos Janecki,9,Math,Available,3
+175445188-8,Making Contact (a.k.a. Joey),Moise Crosston;Markos Janecki,9,Math,Available,4
+172081466-X,Zathura,Ddene Lennarde;Averill Rops,5,Coming-of-age,Available,1
+171937445-7,Fraulein (Das Fräulein) ,Vin Glavin;Deerdre Tither,10,Suspense,Available,1
+171937445-7,Fraulein (Das Fräulein) ,Vin Glavin;Deerdre Tither,10,Suspense,Available,2
+171937445-7,Fraulein (Das Fräulein) ,Vin Glavin;Deerdre Tither,10,Suspense,Available,3
+171937445-7,Fraulein (Das Fräulein) ,Vin Glavin;Deerdre Tither,10,Suspense,Available,4
+171283403-7,Mighty Joe Young,Mildrid Gilmore;Silvie Tolley,8,Romance,Available,1
+171283403-7,Mighty Joe Young,Mildrid Gilmore;Silvie Tolley,8,Romance,Available,2
+171283403-7,Mighty Joe Young,Mildrid Gilmore;Silvie Tolley,8,Romance,Available,3
+171283403-7,Mighty Joe Young,Mildrid Gilmore;Silvie Tolley,8,Romance,Available,4
+168445847-1,G.I. Joe: Retaliation,Bekki Vallintine;Vivienne Shreenan,10,Romance,Available,1
+168445847-1,G.I. Joe: Retaliation,Bekki Vallintine;Vivienne Shreenan,10,Romance,Available,2
+168445847-1,G.I. Joe: Retaliation,Bekki Vallintine;Vivienne Shreenan,10,Romance,Available,3
+168445847-1,G.I. Joe: Retaliation,Bekki Vallintine;Vivienne Shreenan,10,Romance,Available,4
+166754738-0,Open Grave,Craig Schwand;Cesare Dorricott,5,Anthology,Available,1
+163382464-0,Trojan Eddie,Doroteya Brinklow;Verine Howroyd,6,Young adult,Available,1
+162709528-4,Stereo,Allie Blackden;Mateo Jeremaes,1,Anthology,Available,1
+155004032-4,Kariera Nikosia Dyzmy,Art Scay;Andreas New,2,Review,Available,1
+155004032-4,Kariera Nikosia Dyzmy,Art Scay;Andreas New,2,Review,Available,2
+155004032-4,Kariera Nikosia Dyzmy,Art Scay;Andreas New,2,Review,Available,3
+155004032-4,Kariera Nikosia Dyzmy,Art Scay;Andreas New,2,Review,Available,4
+149410157-2,City of God (Cidade de Deus),Lowe Passmore;Filbert Januszewski,4,Crime,Available,1
+149410157-2,City of God (Cidade de Deus),Lowe Passmore;Filbert Januszewski,4,Crime,Available,2
+149410157-2,City of God (Cidade de Deus),Lowe Passmore;Filbert Januszewski,4,Crime,Available,3
+149410157-2,City of God (Cidade de Deus),Lowe Passmore;Filbert Januszewski,4,Crime,Available,4
+146809388-6,Whistling in Dixie,Aubry Sterman;Pepe Tunnock,6,Journal,Available,1
+146598906-4,American Revolutionary: The Evolution of Grace Lee Boggs,Sheba Chilcott;Lane Daskiewicz,7,Satire,Available,1
+146598906-4,American Revolutionary: The Evolution of Grace Lee Boggs,Sheba Chilcott;Lane Daskiewicz,7,Satire,Available,2
+144318855-7,Hangar 18,Padraic Hackey;Claire Ugolotti,3,Children's literature,Available,1
+144318855-7,Hangar 18,Padraic Hackey;Claire Ugolotti,3,Children's literature,Available,2
+144318855-7,Hangar 18,Padraic Hackey;Claire Ugolotti,3,Children's literature,Available,3
+144318855-7,Hangar 18,Padraic Hackey;Claire Ugolotti,3,Children's literature,Available,4
+141045012-0,Wondrous Oblivion,Dehlia Seymark;Olag Cocker,9,Political thriller,Available,1
+136570935-3,Valhalla,Randa Leverentz;Beverie Bradberry,8,Health,Available,1
+133884555-1,"Devil Probably The (Diable probablement Le)",Dillie Elcocks;Pasquale Sutter,4,Self help,Available,1
+133884555-1,"Devil Probably The (Diable probablement Le)",Dillie Elcocks;Pasquale Sutter,4,Self help,Available,2
+133884555-1,"Devil Probably The (Diable probablement Le)",Dillie Elcocks;Pasquale Sutter,4,Self help,Available,3
+133884555-1,"Devil Probably The (Diable probablement Le)",Dillie Elcocks;Pasquale Sutter,4,Self help,Available,4
+133769716-8,Violette,Carlin McCollum;Brear Mulbery,1,Mystery,Available,1
+129846953-8,King Kong,Ferguson Minchindon;Benedicta Leopold,3,Drama,Available,1
+129846953-8,King Kong,Ferguson Minchindon;Benedicta Leopold,3,Drama,Available,2
+129846953-8,King Kong,Ferguson Minchindon;Benedicta Leopold,3,Drama,Available,3
+129846953-8,King Kong,Ferguson Minchindon;Benedicta Leopold,3,Drama,Available,4
+125538749-1,Stakeout,Ardra Craig;Dionis Phelan,5,Math,Available,1
+118006471-2,2-Headed Shark Attack,Alfons Wright;Xena Ajsik,9,Art,Available,1
+118006471-2,2-Headed Shark Attack,Alfons Wright;Xena Ajsik,9,Art,Available,2
+112059792-7,Dug's Special Mission,Win Sloey;Bev Pirie,5,Action and adventure,Available,1
+112059792-7,Dug's Special Mission,Win Sloey;Bev Pirie,5,Action and adventure,Available,2
+112059792-7,Dug's Special Mission,Win Sloey;Bev Pirie,5,Action and adventure,Available,3
+112059792-7,Dug's Special Mission,Win Sloey;Bev Pirie,5,Action and adventure,Available,4
+109922382-2,"Chamber The",Truda Brand;Flossy Cannan,6,Poetry,Available,1
+109922382-2,"Chamber The",Truda Brand;Flossy Cannan,6,Poetry,Available,2
+109922382-2,"Chamber The",Truda Brand;Flossy Cannan,6,Poetry,Available,3
+109922382-2,"Chamber The",Truda Brand;Flossy Cannan,6,Poetry,Available,4
+108669552-6,L.A. Confidential,Iona Rule;Tommi Milius,4,Health,Available,1
+108669552-6,L.A. Confidential,Iona Rule;Tommi Milius,4,Health,Available,2
+108669552-6,L.A. Confidential,Iona Rule;Tommi Milius,4,Health,Available,3
+108669552-6,L.A. Confidential,Iona Rule;Tommi Milius,4,Health,Available,4
+107270900-7,Vertical Limit,Lolita Dovidaitis;Art Greensmith,9,Guide,Available,1
+106268352-8,"Pursuit of Happiness The",Roz Strooband;Vivia Pither,9,Cookbook,Available,1
+102392847-7,Defying Gravity,Lonnie Addionisio;Stepha Sangra,4,True crime,Available,1
+102392847-7,Defying Gravity,Lonnie Addionisio;Stepha Sangra,4,True crime,Available,2
+102392847-7,Defying Gravity,Lonnie Addionisio;Stepha Sangra,4,True crime,Available,3
+102392847-7,Defying Gravity,Lonnie Addionisio;Stepha Sangra,4,True crime,Available,4
+099909923-X,Wrong Turn 5: Bloodlines,Daniele Goford;Pavla Borwick,4,Self help,Available,1
+098961080-2,Iron Man: Rise Of Technovore,Myrtie Sutherland;Eve Penwarden,3,Math,Available,1
+098961080-2,Iron Man: Rise Of Technovore,Myrtie Sutherland;Eve Penwarden,3,Math,Available,2
+098961080-2,Iron Man: Rise Of Technovore,Myrtie Sutherland;Eve Penwarden,3,Math,Available,3
+098961080-2,Iron Man: Rise Of Technovore,Myrtie Sutherland;Eve Penwarden,3,Math,Available,4
+098955572-0,Very Ordinary Couple (Yeonaeui Wondo),Arnie Galway;Westbrook Carratt,1,Cookbook,Available,1
+094941884-6,Take Me Home Tonight,Romona Klisch;Shawn Pawlata,2,Horror,Available,1
+093010420-X,Frida,Lorettalorna Klishin;Cherianne Richin,3,Coming-of-age,Available,1
+093010420-X,Frida,Lorettalorna Klishin;Cherianne Richin,3,Coming-of-age,Available,2
+093010420-X,Frida,Lorettalorna Klishin;Cherianne Richin,3,Coming-of-age,Available,3
+093010420-X,Frida,Lorettalorna Klishin;Cherianne Richin,3,Coming-of-age,Available,4
+089102744-0,"Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.",Hakeem Westney;Orv Melling,7,Coming-of-age,Available,1
+089102744-0,"Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.",Hakeem Westney;Orv Melling,7,Coming-of-age,Available,2
+089102744-0,"Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.",Hakeem Westney;Orv Melling,7,Coming-of-age,Available,3
+087466976-6,Devdas,Sharia Rodmell;Rutter Backsal,6,Fairytale,Available,1
+087466976-6,Devdas,Sharia Rodmell;Rutter Backsal,6,Fairytale,Available,2
+087466976-6,Devdas,Sharia Rodmell;Rutter Backsal,6,Fairytale,Available,3
+087466976-6,Devdas,Sharia Rodmell;Rutter Backsal,6,Fairytale,Available,4
+083294410-6,When the Game Stands Tall,Stanislaus Widdecombe;Del MacAfee,6,Chick lit,Available,1
+080235918-3,Tora-san's Rise and Fall (Otoko wa tsurai yo: Torajiro aiaigasa),Rosabel Greengrass;Brynn Oxbrow,5,History,Available,1
+080235542-0,"Fistful of Dollars A (Per un pugno di dollari)",Dane Ygo;Cassy Goaley,4,Poetry,Available,1
+080235542-0,"Fistful of Dollars A (Per un pugno di dollari)",Dane Ygo;Cassy Goaley,4,Poetry,Available,2
+080235542-0,"Fistful of Dollars A (Per un pugno di dollari)",Dane Ygo;Cassy Goaley,4,Poetry,Available,3
+080235542-0,"Fistful of Dollars A (Per un pugno di dollari)",Dane Ygo;Cassy Goaley,4,Poetry,Available,4
+079494681-X,Homer & Eddie,Jamison Acarson;Daren Firsby,5,Biography,Available,1
+079494681-X,Homer & Eddie,Jamison Acarson;Daren Firsby,5,Biography,Available,2
+079494681-X,Homer & Eddie,Jamison Acarson;Daren Firsby,5,Biography,Available,3
+079494681-X,Homer & Eddie,Jamison Acarson;Daren Firsby,5,Biography,Available,4
+076601294-8,Mars Attacks!,Reamonn Stockhill;Kirsteni Loudyan,7,Coming-of-age,Available,1
+076601294-8,Mars Attacks!,Reamonn Stockhill;Kirsteni Loudyan,7,Coming-of-age,Available,2
+076601294-8,Mars Attacks!,Reamonn Stockhill;Kirsteni Loudyan,7,Coming-of-age,Available,3
+076601294-8,Mars Attacks!,Reamonn Stockhill;Kirsteni Loudyan,7,Coming-of-age,Available,4
+076529333-1,"Town That Dreaded Sundown The",Crysta Gorler;Auroora Reame,6,True crime,Available,1
+073916256-X,Oldboy,Alister Catonne;Kattie Salter,2,Book review,Available,1
+073017605-3,Scent of a Woman (Profumo di donna),Alvera Brayn;Loella Wolfinger,4,Chick lit,Available,1
+069887323-8,Wuthering Heights,Arlin Shatford;Sharon Redfield,4,Diary,Available,1
+061458546-5,"Lawless Breed The",Prescott Hurdedge;Franni Crampton,7,Anthology,Available,4
+061388833-2,"Mark The",Marna Soper;Annadiane Doumer,7,Math,Available,1
+061388833-2,"Mark The",Marna Soper;Annadiane Doumer,7,Math,Available,2
+061388833-2,"Mark The",Marna Soper;Annadiane Doumer,7,Math,Available,3
+061388833-2,"Mark The",Marna Soper;Annadiane Doumer,7,Math,Available,4
+050694302-X,"Amish Murder An",Bailey Reinbech;Hyacinthie Reeks,4,Horror,Available,1
+050694302-X,"Amish Murder An",Bailey Reinbech;Hyacinthie Reeks,4,Horror,Available,2
+046422982-0,Lilian's Story,Clarita Risby;Rutherford D'Ruel,7,Children's literature,Available,1
+046422982-0,Lilian's Story,Clarita Risby;Rutherford D'Ruel,7,Children's literature,Available,2
+046422982-0,Lilian's Story,Clarita Risby;Rutherford D'Ruel,7,Children's literature,Available,3
+046422982-0,Lilian's Story,Clarita Risby;Rutherford D'Ruel,7,Children's literature,Available,4
+034628984-X,Our Nixon,Kora Blinerman;Durante Grimsdike,7,History,Available,1
+033602656-0,Son of Frankenstein,Shurwood Fullicks;Shelba Robrow,2,Self help,Available,1
+031129501-0,Outer Space,Holly Lucio;Odella Gregolin,1,Historical fiction,Available,1
+029966888-6,"Christmas Story A",Gregoire Ferrand;Eugen MacGarrity,2,Paranormal romance,Available,1
+029966888-6,"Christmas Story A",Gregoire Ferrand;Eugen MacGarrity,2,Paranormal romance,Available,2
+029966888-6,"Christmas Story A",Gregoire Ferrand;Eugen MacGarrity,2,Paranormal romance,Damaged,3
+029966888-6,"Christmas Story A",Gregoire Ferrand;Eugen MacGarrity,2,Paranormal romance,Available,4
+029492075-7,Only the Strong,Stuart Marzelli;Levy McNaught,10,Paranormal romance,Available,1
+029241355-6,"Food Inc.",Brigg Schlagman;Nataniel Rosencwaig,7,Historical fiction,Available,1
+029241355-6,"Food Inc.",Brigg Schlagman;Nataniel Rosencwaig,7,Historical fiction,Available,2
+029241355-6,"Food Inc.",Brigg Schlagman;Nataniel Rosencwaig,7,Historical fiction,Available,3
+029241355-6,"Food Inc.",Brigg Schlagman;Nataniel Rosencwaig,7,Historical fiction,Available,4
+027893123-5,"Tempest The",Cordelia Easton;Thom Richly,8,Comic book,Available,1
+027411301-5,"White Diamond The",Jecho Mathiasen;Barrie Ivell,8,True crime,Available,1
+026944250-2,PTU,Coleman Jurczik;Andrey Pevie,5,Fantasy,Available,1
+017540451-8,Coming Down the Mountain,Ernesta Sterling;Galen Reilingen,8,Book review,Available,1
+017540451-8,Coming Down the Mountain,Ernesta Sterling;Galen Reilingen,8,Book review,Damaged,2
+017540451-8,Coming Down the Mountain,Ernesta Sterling;Galen Reilingen,8,Book review,Available,3
+017540451-8,Coming Down the Mountain,Ernesta Sterling;Galen Reilingen,8,Book review,Available,4
+016292332-5,Drumline,Georgi Eckhard;Ferdinande Will,2,Encyclopedia,Available,1
+016292332-5,Drumline,Georgi Eckhard;Ferdinande Will,2,Encyclopedia,Available,2
+016292332-5,Drumline,Georgi Eckhard;Ferdinande Will,2,Encyclopedia,Available,3
+016292332-5,Drumline,Georgi Eckhard;Ferdinande Will,2,Encyclopedia,Available,4
+007124612-6,The Beast Kills in Cold Blood,Morgen Tunno;Thebault Smails,5,Guide,Available,1
+001396318-X,The Lunchbox,Sunshine Carik;Lorri Sineath,8,Graphic novel,Available,1
+000114285-2,New Town Killers,Concettina Loraine;Norman Betteridge,4,Romance,Available,1
+000114285-2,New Town Killers,Concettina Loraine;Norman Betteridge,4,Romance,Available,2
+000114285-2,New Town Killers,Concettina Loraine;Norman Betteridge,4,Romance,Available,3
